@@ -1,0 +1,9 @@
+8
+./sample/MCTS.exe
+8
+./sample/MCTS_2.exe
+8
+./sample/MCTS_3.exe
+8
+./sample/MCTS_4.exe
+1
